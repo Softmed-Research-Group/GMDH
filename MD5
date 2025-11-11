@@ -1,0 +1,8 @@
+09444c66ebbef563d1db7068f3ea742f *DESCRIPTION
+48695f360e02f2fc794dc39f74d0fb83 *NAMESPACE
+8da5e8c981d9e3a5ab17f19a5f0f7251 *R/fcast.R
+e57d99b48b0ede5826289e19c3ddeaa9 *data/cancer.rda
+fe5f1bb21244133fd47c00679dbde88f *inst/citation
+7c0f5021d36b8910c475df8b0d0aefa5 *man/GMDH.Rd
+f9b9d7d8170b5b7484992b491f93541c *man/cancer.Rd
+97272fe5a9c199bdd8234b14c60f346c *man/fcast.Rd
